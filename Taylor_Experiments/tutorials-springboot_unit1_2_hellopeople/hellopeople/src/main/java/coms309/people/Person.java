@@ -3,8 +3,6 @@ package coms309.people;
 
 /**
  * Provides the Definition/Structure for the people row
- *
- * @author Vivek Bengre
  */
 
 public class Person {
